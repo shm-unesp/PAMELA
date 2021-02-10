@@ -15,7 +15,7 @@ The experimental setup for measuring electromechanical impedance in a thermal ch
 
 An aluminum beam with a dimension of  500 mm x 40 mm x 2 mm of length, width, and thickness, respectively, is utilized in the tests. A PZT buzzer from Murata (number 7BB-35-3) with a diameter of 25 mm and thickness of 0.23 mm, with a base plate of brass, is bonded to the surface of the beam, as seen in the setup. The beam is tested in a free-free condition with elastic straps inside a thermal chamber. 
 
-The structural modification to simulate possible damages is a sheer mass add by a clip or cuts with different deep. Four conditions are described as represented by damage D1, D2, D3, and D4, as explained in the figure below.
+The structural modification to simulate possible damages is a sheer mass add by a clip or cuts with different deep. Four conditions are described as represented by damage D1 (mass of 3g), D2 (mass of 4.1 g), D3 (cut in the beam of 3 mm detpth and 1 mm width), and D4 cut in the beam of 9 mm detpth and 1 mm width, as explained in the figure below.
 
 <img src="damages.jpg " width="70%">
 
