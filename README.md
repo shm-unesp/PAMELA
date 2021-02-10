@@ -79,7 +79,7 @@ A creative commons license that bans commercial use and requires you to release 
 __________________________________________________________________________________________________
 # Funding
 
-São Paulo Research Foundation (<a href="http://www.fapesp.br">FAPESP</a>), grant numbers 15/25676-2 and 17/24977-4, Brazilian National Council for Scientific and Technological Development (<a href="http://www.cnpq.br/">CNPq</a>), grant number 306526/2019-0, and Brazilian Coordination for the Improvement of Higher Education Personnel (<a href="https://www.gov.br">CAPES</a>)-Finance Code 001 funded this experimental setup.
+São Paulo Research Foundation (<a href="http://www.fapesp.br">FAPESP</a>), Brazilian National Council for Scientific and Technological Development (<a href="http://www.cnpq.br/">CNPq</a>), and Brazilian Coordination for the Improvement of Higher Education Personnel (<a href="https://www.gov.br">CAPES</a>)-Finance Code 001 funded this experimental setup.
 
 <img src="sponsors.jpg " width="50%">
 
