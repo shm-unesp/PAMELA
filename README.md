@@ -7,9 +7,11 @@ ________________________________________________________________________________
 
 PAMELA is a dataset of PZT measurements of impedance-based SHM with temperature fluctuations in healthy and damaged conditions. This experiment was conducted at SHM Lab UNESP/Ilha Solteira.
 
-The experimental setup used is presented below. 
+The experimental setup for measuring electromechanical impedance in a thermal chamber is presented below. 
 
-<img src="setup1.jpg " width="80%">
+<img src="setup1.jpg " width="50%">
+
+<img src="setup2.jpg " width="50%">
 
 An aluminum beam with a dimension of  500 mm x 40 mm x 2 mm of length, width, and thickness, respectively, is utilized in the tests. A PZT buzzer from Murata (number 7BB-35-3) with a diameter of 25 mm and thickness of 0.23 mm, with a base plate of brass, is bonded to the surface of the beam, as seen in the setup. The beam is tested in a free-free condition with elastic straps inside a thermal chamber. 
 
