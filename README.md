@@ -11,6 +11,9 @@ The experimental setup used is presented below.
 
 <img src="setup1.jpg " width="80%">
 
+An aluminum beam with a dimension of  500 mm x 40 mm x 2 mm of length, width, and thickness, respectively, is utilized in the tests. A PZT buzzer from Murata (number 7BB-35-3) with a diameter of 25 mm and thickness of 0.23 mm, with a base plate of brass, is bonded to the surface of the beam, as seen in the setup. The beam is tested in a free-free condition with elastic straps inside a thermal chamber. 
+
+The structural modification to simulate possible damages are a mere mass add by a clip. Four conditions are described represented by damage D1, D2, D3 and D4, as observed in figure bellow.
 
 __________________________________________________________________________________________________
 # Authors
@@ -18,6 +21,7 @@ ________________________________________________________________________________
   <li>Samuel da Silva (UNESP) </li>
   <li>Marcos Omori Yano (UNESP) </li>
   <li>Camila Gianini Gonsalez-Bueno (UNESP) </li>
+  
 __________________________________________________________________________________________________
 # How to cite
 
