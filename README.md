@@ -1,6 +1,6 @@
 # PAMELA: imPedAnce-based shM with tEmperature fLuctuAtions
 
-To download the vibration dataset of the benchmark ADELE, please fill the form:
+To download the dataset of the benchmark PAMELA, please fill the form:
 
 __________________________________________________________________________________________________
 # Description
@@ -14,6 +14,11 @@ The experimental setup used is presented below.
 An aluminum beam with a dimension of  500 mm x 40 mm x 2 mm of length, width, and thickness, respectively, is utilized in the tests. A PZT buzzer from Murata (number 7BB-35-3) with a diameter of 25 mm and thickness of 0.23 mm, with a base plate of brass, is bonded to the surface of the beam, as seen in the setup. The beam is tested in a free-free condition with elastic straps inside a thermal chamber. 
 
 The structural modification to simulate possible damages are a mere mass add by a clip. Four conditions are described represented by damage D1, D2, D3 and D4, as observed in figure bellow.
+
+
+The impedance signature is estimated accurately using a LabVIEW software with a National Instruments DAQ device, model USB-6211 data acquisition system with 16 bits and a sampling rate of 250 kHz. A chirp signal with  1 V peak-to-peak in the range of frequency from 0 to 125 kHz is applied. An electric circuit adequately conditions the voltage and current. All details about the instrumentation and identification of the impedance signals used here can be found in the reference papers listed below for attentive readers.
+
+Six sets of measurements in different temperatures are performed in the baseline and damage conditions. These temperatures are 24ºC, 40ºC, 55ºC, 70ªC, 85ºC, and 100ºC, controlled in a thermal chamber used in the test campaign. The data files have two folders with undamaged and damaged states with the real and imaginary impedance signatures measured and previously estimated.
 
 __________________________________________________________________________________________________
 # Authors
@@ -32,12 +37,14 @@ This dataset was used in this publication:
 <li>da Silva S, Yano M O, Gonsalez-Bueno, C G. Transfer Component Analysis for Compensation of Temperature Effects on the
 Impedance-Based Structural Health Monitoring. Journal of Nondestructive Evaluation. 2021;</li><br>
 
+<li>Gonsalez-Bueno C G, da Silva S, Abreu G L C M, Baptista F G, Lopes Jr, V.  Yano M O, Gonsalez-Bueno, C G. Fuzzy Clustering to Distinguish Structural Damage from Temperature Effect. In: 11th Pan-American Congress of Applied Mechanics (PACAM XI), Foz do Iguçu (Brazil), 2010.</li><br>
+
 If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
 
 ```
 @article{TCA,
-author = {Samuel da Silva and Marcus Omori Yano and Camila},
-title ={On the detection of a nonlinear damage in an uncertain nonlinear beam using stochastic Volterra series},
+author = {Samuel da Silva and Marcus Omori Yano and Camila G. Gonsalez-Bueno},
+title = {On the detection of a nonlinear damage in an uncertain nonlinear beam using stochastic Volterra series},
 journal = {Journal of Nondestructive Evaluation},
 volume = {0},
 number = {0},
@@ -45,6 +52,15 @@ pages = {0},
 year = {2021},
 doi = {to appear},
 URL = { to appear},
+}
+
+@inproceedings{PACAM,
+author = {Camila G. Gonsalez-Bueno and Samuel da Silva and Gustavo Abreu and Fabricio Baptista and Vicente Lopes Jr}, 
+title = {Fuzzy Clustering to Distinguish Structural Damage from Temperature Effect}
+booktitle = {11th Pan-American Congress of Applied Mechanics (PACAM XI)},
+location = {Foz do Iguaçu, PR, Brazil},
+eventdate = {january 2010},
+year = {2010},
 }
 ```
 __________________________________________________________________________________________________
