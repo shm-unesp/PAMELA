@@ -29,7 +29,7 @@ ________________________________________________________________________________
 # Authors
 
   <li>Samuel da Silva (UNESP) </li>
-  <li>Marcos Omori Yano (UNESP) </li>
+  <li>Marcus Omori Yano (UNESP) </li>
   <li>Camila Gianini Gonsalez-Bueno (UNESP) </li>
   
 __________________________________________________________________________________________________
