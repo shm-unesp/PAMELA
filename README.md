@@ -7,7 +7,7 @@ https://forms.gle/ndbzPb6xkhp7ATH6A
 __________________________________________________________________________________________________
 # Description
 
-PAMELA is a dataset of PZT measurements of impedance-based SHM with temperature fluctuations in healthy and damaged conditions. This experiment was conducted at SHM Lab UNESP/Ilha Solteira.
+PAMELA is a dataset of PZT measurements of impedance-based SHM with temperature fluctuations in healthy and damaged conditions. This experiment was conducted at GMSInt and SHM Lab UNESP/Ilha Solteira.
 
 The experimental setup for measuring electromechanical impedance in a thermal chamber is presented below. 
 
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 # How to cite
 
-The data are still available for non-commercial research under the following terms: (i) the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UNESP/Ilha Solteira should be cited; (iii) this benchmark should be cited as PAMELA.
+The data are still available for non-commercial research under the following terms: (i) the SHM Lab at GMSInt and UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the GMSInt and SHM Lab UNESP/Ilha Solteira should be cited; (iii) this benchmark should be cited as PAMELA.
 
 This dataset was used in this publication:
 
