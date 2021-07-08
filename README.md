@@ -40,7 +40,7 @@ The data are still available for non-commercial research under the following ter
 This dataset was used in this publication:
 
 <li>da Silva S, Yano M O, Gonsalez-Bueno, C G. Transfer Component Analysis for Compensation of Temperature Effects on the
-Impedance-Based Structural Health Monitoring. Journal of Nondestructive Evaluation. 2021;</li><br>
+Impedance-Based Structural Health Monitoring. Journal of Nondestructive Evaluation, vol. 40, p. 64, 2021. [Online]. Available: https://doi.org/10.1007/s10921-021-00794-6</li><br>
 
 <li>Gonsalez-Bueno C G, da Silva S, Abreu G L C M, Baptista F G, Lopes Jr, V.  Yano M O, Gonsalez-Bueno, C G. Fuzzy Clustering to Distinguish Structural Damage from Temperature Effect. In: 11th Pan-American Congress of Applied Mechanics (PACAM XI), Foz do Iguçu (Brazil), 2010.</li><br>
 
@@ -49,14 +49,13 @@ If you are using a LaTeX Editor, you can cite the papers above using these BibTe
 ```
 @article{TCA,
 author = {Samuel da Silva and Marcus Omori Yano and Camila G. Gonsalez-Bueno},
-title = {On the detection of a nonlinear damage in an uncertain nonlinear beam using stochastic Volterra series},
+title = {Transfer Component Analysis for Compensation of Temperature Effects on the Impedance-Based Structural Health Monitoring},
 journal = {Journal of Nondestructive Evaluation},
-volume = {0},
-number = {0},
-pages = {0},
+volume = {40},
+pages = {64},
 year = {2021},
-doi = {to appear},
-URL = { to appear},
+doi = {https://doi.org/10.1007/s10921-021-00794-6},
+URL = {https://doi.org/10.1007/s10921-021-00794-6},
 }
 
 @inproceedings{PACAM,
